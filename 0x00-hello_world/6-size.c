@@ -2,7 +2,7 @@
 /**
  *main- Entry point
  *Description 'sizes of various variables'
- *Return; Always 0 (Success)
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
