@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - entry point
- * Description:'get the last digit of a number'
- * Return ; always zero
+ *main - entry point
+ *Description'get the last digit of a number'
+ *Return: always zero
  */
 int main(void)
 {

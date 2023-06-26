@@ -1,8 +1,8 @@
 #include<stdio.h>
-/*
+/**
  *main- entry point
- *Description: 'printing the alphabet in lowercase'
- *Return; always 0
+ *Description 'printing the alphabet in lowercase'
+ *Return Always 0
  */
 int main(void)
 {
