@@ -2,7 +2,7 @@
 /**
  *main - main entry point
  *Description 'including puts'
- *Return : when you see zero it's a success
+ *Return: Always 0
  */
 int main(void)
 {
