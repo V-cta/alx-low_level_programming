@@ -1,3 +1,5 @@
+#include "lists.h"
+
 /**
  * insert_nodeint_at_index - inserts a new node in a linked list,
  * at a given position
@@ -41,3 +43,4 @@ listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 
 	return (NULL);
 }
+
